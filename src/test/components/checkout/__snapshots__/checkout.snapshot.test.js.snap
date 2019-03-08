@@ -5,8 +5,11 @@ exports[`Checkout Form it matches the snapshot 1`] = `
   <div
     id="fake-form"
   >
-    <label>
+    <h2>
        FORM 
+    </h2>
+    <label>
+      Amount:
     </label>
     <input
       id="amount"
@@ -14,6 +17,9 @@ exports[`Checkout Form it matches the snapshot 1`] = `
       placeholder="amount"
       type="text"
     />
+    <label>
+      Passphrase:
+    </label>
     <input
       id="passphrase"
       onChange={[Function]}

@@ -18,14 +18,6 @@ describe('App js should say Keep Ahead', ()=>{
         expect(renderWrapper.find('div h1').text()).toBe('Keep Ahead')
     })
 
-    it('should say Keep Ahead', ()=>{
-        expect(
-            wrapper.containsMatchingElement(
-                <h1>Keep Ahead</h1>
-            )
-        ).toBeTruthy()
-    })
-
     describe('Sign up', () => {
       it('renders a venuePortal button', () => {
       expect(renderWrapper.find('#venue_portal_button').text()).toBe('Venue Portal')

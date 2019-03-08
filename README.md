@@ -133,3 +133,11 @@ There is a lot of work I would do if I were to push forward on this project.
 
 - React and Stripe: https://www.robinwieruch.de/react-express-stripe-payment/
 - React and Rails: https://stripe.com/docs/checkout/rails
+
+## Authors
+
+- [Jethro Whaley](https://github.com/jaywayawyaj)
+- [Joao Abbot-Griven](https://github.com/joaoag)
+- [Alina Goaga](https://github.com/AlinaGoaga)
+- [Huxley Millard](https://github.com/HuxleyM)
+- [Alex Alikhani](https://github.com/alexalikhani95)
